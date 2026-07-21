@@ -1,0 +1,30 @@
+{
+  "name": "vps",
+  "version": "1.4.0",
+  "description": "这是一个简单美观的 VPS 剩余价值计算器，支持多种货币、自定义汇率，并可以生成精美的分享图片。",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verkyer/vps-jsq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verkyer/vps-jsq/issues"
+  },
+  "homepage": "https://github.com/verkyer/vps-jsq#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "html-to-image": "^1.11.11",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.4.8"
+  }
+}

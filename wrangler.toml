@@ -1,0 +1,7 @@
+name = "vps"
+compatibility_date = "2024-11-01"
+main = "src/worker.js"
+
+[assets]
+directory = "dist"
+binding = "ASSETS"
